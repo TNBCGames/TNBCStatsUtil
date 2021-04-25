@@ -2,6 +2,5 @@
   "schemaVersion": 1,
   "label": "TNBC/USD",
   "message": "0.0289",
-  "color": "red",
-  "link": "https%3A%2F%2Ftnbcrow.pythonanywhere.com"
+  "color": "red"
 }
