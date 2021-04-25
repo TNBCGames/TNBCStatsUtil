@@ -2,5 +2,6 @@
   "schemaVersion": 1,
   "label": "TNBC Rate",
   "message": "0.0289",
-  "color": "orange"
+  "color": "orange",
+  "logoSvg":"https://tnbcgames.github.io/TNBCUtil/logos/tnb-96px.svg"
 }
