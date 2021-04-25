@@ -1,4 +1,4 @@
-## Github badge
+## Github badge for TNBC Rates
 _Rates provided by https://tnbcrow.pythonanywhere.com_
 <br/>
 ![TNBC Latest USD Rate](https://img.shields.io/endpoint?link=https%3A%2F%2Ftnbcrow.pythonanywhere.com&color=red&label=TNBC%2FUSD&url=https%3A%2F%2Ftnbcgames.github.io%2FTNBCUtil%2Fgithub%2Frate-badge.json)
